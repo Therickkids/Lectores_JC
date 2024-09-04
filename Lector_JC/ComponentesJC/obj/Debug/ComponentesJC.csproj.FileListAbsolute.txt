@@ -1,0 +1,6 @@
+C:\Users\manrr\OneDrive\Desktop\Lectores_JC\Lector_JC\ComponentesJC\obj\Debug\ComponentesJC.csproj.AssemblyReference.cache
+C:\Users\manrr\OneDrive\Desktop\Lectores_JC\Lector_JC\ComponentesJC\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\manrr\OneDrive\Desktop\Lectores_JC\Lector_JC\ComponentesJC\obj\Debug\Interop.WMPLib.dll
+C:\Users\manrr\OneDrive\Desktop\Lectores_JC\Lector_JC\ComponentesJC\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\manrr\OneDrive\Desktop\Lectores_JC\Lector_JC\ComponentesJC\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\manrr\OneDrive\Desktop\Lectores_JC\Lector_JC\ComponentesJC\obj\Debug\ComponentesJC.csproj.ResolveComReference.cache

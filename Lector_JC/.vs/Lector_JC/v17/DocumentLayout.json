@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ComponentesJC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ComponentesJC\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrWMP.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ComponentesJC\\fmrWMP.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrWMP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ComponentesJC\\fmrWMP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrWeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ComponentesJC\\fmrWeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrPDF.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ComponentesJC\\fmrPDF.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\Program.cs",
+              "RelativeDocumentMoniker": "ComponentesJC\\Program.cs",
+              "ToolTip": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\Program.cs",
+              "RelativeToolTip": "ComponentesJC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:28:41.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\Form1.cs",
+              "RelativeDocumentMoniker": "ComponentesJC\\Form1.cs",
+              "ToolTip": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\Form1.cs",
+              "RelativeToolTip": "ComponentesJC\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:28:34.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fmrWMP.resx",
+              "DocumentMoniker": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrWMP.resx",
+              "RelativeDocumentMoniker": "ComponentesJC\\fmrWMP.resx",
+              "ToolTip": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrWMP.resx",
+              "RelativeToolTip": "ComponentesJC\\fmrWMP.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-04T04:28:29.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fmrWMP.cs",
+              "DocumentMoniker": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrWMP.cs",
+              "RelativeDocumentMoniker": "ComponentesJC\\fmrWMP.cs",
+              "ToolTip": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrWMP.cs",
+              "RelativeToolTip": "ComponentesJC\\fmrWMP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:28:16.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fmrWeb.cs",
+              "DocumentMoniker": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrWeb.cs",
+              "RelativeDocumentMoniker": "ComponentesJC\\fmrWeb.cs",
+              "ToolTip": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrWeb.cs",
+              "RelativeToolTip": "ComponentesJC\\fmrWeb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:28:09.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fmrPDF.resx",
+              "DocumentMoniker": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrPDF.resx",
+              "RelativeDocumentMoniker": "ComponentesJC\\fmrPDF.resx",
+              "ToolTip": "C:\\Users\\manrr\\OneDrive\\Desktop\\Lectores_JC\\Lector_JC\\ComponentesJC\\fmrPDF.resx",
+              "RelativeToolTip": "ComponentesJC\\fmrPDF.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-04T04:28:04.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
